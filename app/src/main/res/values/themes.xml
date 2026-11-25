@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SpaceNews" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/app_bg</item>
+        <item name="android:statusBarColor">@color/app_bg</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+</resources>
